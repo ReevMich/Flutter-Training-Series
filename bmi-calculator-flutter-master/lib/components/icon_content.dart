@@ -1,5 +1,5 @@
+import 'package:bmi_calculator/constants.dart';
 import 'package:flutter/material.dart';
-import 'constants.dart';
 
 const double kIconSize = 80.0;
 const double kIconContentSpacing = 15.0;
